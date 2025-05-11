@@ -3,7 +3,7 @@
 
 
 
-### Full-Stack Developer | Blockchain Enthusiast | Web2 + Web3 Engineeer
+### Full-Stack Developer | Blockchain Enthusiast | Web2 + Web3 Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderszone899&label=Profile%20views&color=0e75b6&style=flat" alt="coderszone89" /> </p>
 
