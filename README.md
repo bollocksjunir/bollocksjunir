@@ -28,7 +28,7 @@
 ### Frontend
 - React.js
 - Vue.js
-- JavaScript / TypeScript
+- JavaScript / TypeScrit
 - HTML5 / CSS3
 - UI/UX Design
 
